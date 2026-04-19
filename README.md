@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubrata Datta</h1>
-<h3 align="center">💻 Computer Science Student | 🚀 Aspiring Software Developer</h3>
+<h3 align="center">💻 Computer Science Student |📊 Aspiring Data Scientist</h3>
 
 <p align="center">
   <a href="https://github.com/Shubrata-Datta">
@@ -10,10 +10,11 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science student  
+- 🎓 Computer Science student with a strong interest in **Data Science & Analytics**  
+- 📊 Passionate about extracting insights from data and solving real-world problems 
 - 🧠 Focused on **Data Structures & Algorithms**  
 - 📱 Learning **Flutter** for cross-platform apps  
-- ☕ Strong interest in **Java & OOP**  
+- ☕ Strong interest in **Python & Java & OOP**  
 - 🌱 Continuously improving problem-solving skills  
 
 ---
@@ -22,8 +23,13 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart" />
 </p>
+### 📚 Data Science Tools
+- NumPy  
+- Pandas  
+- Matplotlib / Seaborn  
+- Jupyter Notebook  
 
 ### 🧠 Concepts
 - Data Structures & Algorithms  
@@ -68,6 +74,7 @@
 ---
 
 ## 🧩 What I'm Working On
+-📚 Currently Learning Data Analysis with Python 
 - 📘 Mastering DSA for coding interviews  
 - 📱 Building Flutter projects  
 - ⚙️ Strengthening backend fundamentals  
@@ -75,6 +82,7 @@
 ---
 
 ## 🎯 Goals
+- 📊 Build impactful data-driven projects 
 - 🚀 Build real-world impactful projects  
 - 🌍 Contribute to open source  
 - 💼 Become a professional software developer  
