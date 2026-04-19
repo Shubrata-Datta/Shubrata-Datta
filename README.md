@@ -26,6 +26,10 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart" />
 </p>
 ### 📚 Data Science Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
 - NumPy  
 - Pandas  
 - Matplotlib / Seaborn  
@@ -34,7 +38,12 @@
 ### 🧠 Concepts
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
-- Problem Solving  
+- Problem Solving
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Storytelling  
+- Statistical Analysis (mean, variance, correlation)  
+- Machine Learning Fundamentals  
 
 ### 🛠 Tools & Technologies
 <p>
