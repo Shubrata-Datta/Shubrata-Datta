@@ -83,8 +83,8 @@
 
 ## 📫 Connect With Me
 <p>
-  📧 Email: your-email@example.com <br/>
-  💼 LinkedIn: https://linkedin.com/in/your-profile
+  📧 Email: shubratadatta529@gmail.com <br/>
+  💼 LinkedIn: www.linkedin.com/in/shubrata-datta
 </p>
 
 ---
