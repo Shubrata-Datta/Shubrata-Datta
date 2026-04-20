@@ -25,7 +25,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart" />
 </p>
-### 📚 Data Science Tools
+
+**📚 Data Science Tools**
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
