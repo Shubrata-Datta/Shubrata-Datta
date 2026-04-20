@@ -26,14 +26,14 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart" />
 </p>
 ### 📚 Data Science Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-- NumPy  
-- Pandas  
-- Matplotlib / Seaborn  
-- Jupyter Notebook  
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p> 
 
 ### 🧠 Concepts
 - Data Structures & Algorithms  
