@@ -84,7 +84,7 @@
 ---
 
 ## 🧩 What I'm Working On
--📚 Currently Learning Data Analysis with Python 
+- 📚 Currently Learning Data Analysis with Python 
 - 📘 Mastering DSA for coding interviews  
 - 📱 Building Flutter projects  
 - ⚙️ Strengthening backend fundamentals  
